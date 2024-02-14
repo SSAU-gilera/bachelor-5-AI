@@ -1,0 +1,7 @@
+C:\Users\Lera\Desktop\University\Study\Интеллект\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Lera\Desktop\University\Study\Интеллект\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Lera\Desktop\University\Study\Интеллект\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Lera\Desktop\University\Study\Интеллект\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Lera\Desktop\University\Study\Интеллект\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\Интеллект\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Lera\Desktop\University\Study\Интеллект\lab2\lab2\obj\Debug\lab2.pdb
